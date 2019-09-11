@@ -1,0 +1,54 @@
+form{
+	outline:0;
+	height:36px;
+	margin-top:5%;
+	border:3px solid #EE9925;
+	border-radius:6px;
+}
+input[type="text"]{
+	outline:0;
+	width:55%;
+	height:32px;
+	border:none;
+	font-size:18px;
+	font-weight:normal;
+	padding-left:10px;
+	border-radius:8px;
+}
+#add-data{
+	outline:0;
+	float:right;
+	width:34%;
+	height:36px;
+	color:#fff;
+	font-size:18px;
+	border:none;
+	cursor:pointer;
+	background-color:#7FBEB7;
+	border-radius:2.5px;
+}
+ul{
+	padding:0;
+	text-align:left;
+	list-style:none;
+}
+hr{
+	border-bottom:0;
+	margin:15px 0;
+}
+input[type="checkbox"]{
+	width:10px;
+}
+a{
+	float:right;
+	cursor:pointer;
+}
+#container{
+	margin:150px auto;
+	margin-top:150px;
+	margin-right:auto;
+	margin-bottom:150px;
+	margin-left:auto;
+	min-width:500px;
+	width:45%;
+}
